@@ -8,3 +8,4 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | File | Episode | Length |
 |---|---|---|
 | `v/never-explained-file-001-flannan-isles.mp4` | FILE 001 · Flannan Isles | 92 s |
+| `v/never-explained-file-003-valentich.mp4` | FILE 003 · Valentich | 84 s |
