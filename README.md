@@ -13,3 +13,4 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-004-dancing-plague.mp4` | FILE 004 · The Dancing Plague | 75 s |
 | `v/never-explained-file-005-tunguska.mp4` | FILE 005 · Tunguska | 73 s |
 | `v/never-explained-file-007-roswell.mp4` | FILE 007 · Roswell | 82 s |
+| `v/never-explained-file-006-roanoke.mp4` | FILE 006 · Roanoke | 84 s |
