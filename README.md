@@ -22,3 +22,5 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-013-flying-dutchman.mp4` | FILE 013 · The Flying Dutchman | 81 s |
 | `v/never-explained-file-014-flight-19.mp4` | FILE 014 · Flight 19 | 79 s |
 | `v/never-explained-file-020-antikythera-mechanism.mp4` | FILE 020 · The Antikythera Mechanism | 94 s |
+| `v/never-explained-file-016-voynich-manuscript.mp4` | FILE 016 · The Voynich Manuscript | 86 s |
+| `v/never-explained-file-018-rendlesham-forest.mp4` | FILE 018 · Rendlesham Forest | 96 s |
