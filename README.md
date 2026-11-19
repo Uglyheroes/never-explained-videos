@@ -24,3 +24,4 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-020-antikythera-mechanism.mp4` | FILE 020 · The Antikythera Mechanism | 94 s |
 | `v/never-explained-file-016-voynich-manuscript.mp4` | FILE 016 · The Voynich Manuscript | 86 s |
 | `v/never-explained-file-018-rendlesham-forest.mp4` | FILE 018 · Rendlesham Forest | 96 s |
+| `v/never-explained-file-017-hope-diamond.mp4` | FILE 017 · The Hope Diamond | 89 s |
