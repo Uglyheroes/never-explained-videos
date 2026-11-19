@@ -19,3 +19,5 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-010-operation-highjump.mp4` | FILE 010 · Operation Highjump | 92 s |
 | `v/never-explained-file-011-mary-celeste.mp4` | FILE 011 · The Mary Celeste | 78 s |
 | `v/never-explained-file-012-wow-signal.mp4` | FILE 012 · The Wow! Signal | 80 s |
+| `v/never-explained-file-013-flying-dutchman.mp4` | FILE 013 · The Flying Dutchman | 81 s |
+| `v/never-explained-file-014-flight-19.mp4` | FILE 014 · Flight 19 | 79 s |
