@@ -26,3 +26,4 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-018-rendlesham-forest.mp4` | FILE 018 · Rendlesham Forest | 96 s |
 | `v/never-explained-file-017-hope-diamond.mp4` | FILE 017 · The Hope Diamond | 89 s |
 | `v/never-explained-file-015-yeti-footprint.mp4` | FILE 015 · The Yeti Footprint | 90 s |
+| `v/never-explained-file-019-spring-heeled-jack.mp4` | FILE 019 · Spring-heeled Jack | 90 s |
