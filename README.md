@@ -37,3 +37,6 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-017-hope-diamond.mp4` | FILE 017 · The Hope Diamond | 89 s |
 | `v/never-explained-file-015-yeti-footprint.mp4` | FILE 015 · The Yeti Footprint | 90 s |
 | `v/never-explained-file-019-spring-heeled-jack.mp4` | FILE 019 · Spring-heeled Jack | 90 s |
+
+## Covers
+`covers/never-explained-file-NNN-<case>-cover.jpg` (1080×1920 JPEG): each file's cover (thumbnail), the hook picture with the file label and case name, for the TikTok cover and the YouTube Shorts thumbnail. Made by `engine/tools/covers.py` in never-explained-studio. Link: `https://raw.githubusercontent.com/Uglyheroes/never-explained-videos/main/covers/<file>.jpg`
