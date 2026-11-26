@@ -31,12 +31,16 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-013-flying-dutchman-silent.mp4` | FILE 013 · The Flying Dutchman (silent cut, not posted) | 81 s |
 | `v/never-explained-file-014-flight-19.mp4` | FILE 014 · Flight 19 (narrated) | 121 s |
 | `v/never-explained-file-014-flight-19-silent.mp4` | FILE 014 · Flight 19 (silent cut, not posted) | 79 s |
-| `v/never-explained-file-020-antikythera-mechanism.mp4` | FILE 020 · The Antikythera Mechanism | 94 s |
+| `v/never-explained-file-020-antikythera-mechanism.mp4` | FILE 020 · The Antikythera Mechanism (narrated) | 123 s |
+| `v/never-explained-file-020-antikythera-mechanism-silent.mp4` | FILE 020 · The Antikythera Mechanism (silent cut, not posted) | 94 s |
 | `v/never-explained-file-016-voynich-manuscript.mp4` | FILE 016 · The Voynich Manuscript | 86 s |
-| `v/never-explained-file-018-rendlesham-forest.mp4` | FILE 018 · Rendlesham Forest | 96 s |
-| `v/never-explained-file-017-hope-diamond.mp4` | FILE 017 · The Hope Diamond | 89 s |
+| `v/never-explained-file-018-rendlesham-forest.mp4` | FILE 018 · Rendlesham Forest (narrated) | 123 s |
+| `v/never-explained-file-018-rendlesham-forest-silent.mp4` | FILE 018 · Rendlesham Forest (silent cut, not posted) | 96 s |
+| `v/never-explained-file-017-hope-diamond.mp4` | FILE 017 · The Hope Diamond (narrated) | 120 s |
+| `v/never-explained-file-017-hope-diamond-silent.mp4` | FILE 017 · The Hope Diamond (silent cut, not posted) | 89 s |
 | `v/never-explained-file-015-yeti-footprint.mp4` | FILE 015 · The Yeti Footprint | 90 s |
-| `v/never-explained-file-019-spring-heeled-jack.mp4` | FILE 019 · Spring-heeled Jack | 90 s |
+| `v/never-explained-file-019-spring-heeled-jack.mp4` | FILE 019 · Spring-heeled Jack (narrated) | 123 s |
+| `v/never-explained-file-019-spring-heeled-jack-silent.mp4` | FILE 019 · Spring-heeled Jack (silent cut, not posted) | 90 s |
 
 ## Covers
 `covers/never-explained-file-NNN-<case>-cover.jpg` (1080×1920 JPEG): each file's cover (thumbnail), the hook picture with the file label and case name, for the TikTok cover and the YouTube Shorts thumbnail. Made by `engine/tools/covers.py` in never-explained-studio. Link: `https://raw.githubusercontent.com/Uglyheroes/never-explained-videos/main/covers/<file>.jpg`
