@@ -38,7 +38,8 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-018-rendlesham-forest-silent.mp4` | FILE 018 · Rendlesham Forest (silent cut, not posted) | 96 s |
 | `v/never-explained-file-017-hope-diamond.mp4` | FILE 017 · The Hope Diamond (narrated) | 120 s |
 | `v/never-explained-file-017-hope-diamond-silent.mp4` | FILE 017 · The Hope Diamond (silent cut, not posted) | 89 s |
-| `v/never-explained-file-015-yeti-footprint.mp4` | FILE 015 · The Yeti Footprint | 90 s |
+| `v/never-explained-file-015-yeti-footprint.mp4` | FILE 015 · The Yeti Footprint (narrated) | 115 s |
+| `v/never-explained-file-015-yeti-footprint-silent.mp4` | FILE 015 · The Yeti Footprint (silent cut, not posted) | 90 s |
 | `v/never-explained-file-019-spring-heeled-jack.mp4` | FILE 019 · Spring-heeled Jack (narrated) | 123 s |
 | `v/never-explained-file-019-spring-heeled-jack-silent.mp4` | FILE 019 · Spring-heeled Jack (silent cut, not posted) | 90 s |
 
