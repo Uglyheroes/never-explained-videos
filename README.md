@@ -32,6 +32,7 @@ Sources, scripts and the engine live in the private never-explained-studio repo.
 | `v/never-explained-file-014-flight-19.mp4` | FILE 014 · Flight 19 (narrated) | 121 s |
 | `v/never-explained-file-014-flight-19-silent.mp4` | FILE 014 · Flight 19 (silent cut, not posted) | 79 s |
 | `v/never-explained-file-020-antikythera-mechanism.mp4` | FILE 020 · The Antikythera Mechanism (narrated) | 123 s |
+| `v/never-explained-file-021-db-cooper.mp4` | FILE 021 · D. B. Cooper (narrated; first autonomous file) | 119 s |
 | `v/never-explained-file-020-antikythera-mechanism-silent.mp4` | FILE 020 · The Antikythera Mechanism (silent cut, not posted) | 94 s |
 | `v/never-explained-file-016-voynich-manuscript.mp4` | FILE 016 · The Voynich Manuscript | 86 s |
 | `v/never-explained-file-018-rendlesham-forest.mp4` | FILE 018 · Rendlesham Forest (narrated) | 123 s |
